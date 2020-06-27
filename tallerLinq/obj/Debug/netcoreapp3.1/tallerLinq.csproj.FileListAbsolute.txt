@@ -1,0 +1,13 @@
+C:\Users\jhond\source\repos\tallerLinq\tallerLinq\bin\Debug\netcoreapp3.1\tallerLinq.exe
+C:\Users\jhond\source\repos\tallerLinq\tallerLinq\bin\Debug\netcoreapp3.1\tallerLinq.deps.json
+C:\Users\jhond\source\repos\tallerLinq\tallerLinq\bin\Debug\netcoreapp3.1\tallerLinq.runtimeconfig.json
+C:\Users\jhond\source\repos\tallerLinq\tallerLinq\bin\Debug\netcoreapp3.1\tallerLinq.runtimeconfig.dev.json
+C:\Users\jhond\source\repos\tallerLinq\tallerLinq\bin\Debug\netcoreapp3.1\tallerLinq.dll
+C:\Users\jhond\source\repos\tallerLinq\tallerLinq\bin\Debug\netcoreapp3.1\tallerLinq.pdb
+C:\Users\jhond\source\repos\tallerLinq\tallerLinq\obj\Debug\netcoreapp3.1\tallerLinq.csprojAssemblyReference.cache
+C:\Users\jhond\source\repos\tallerLinq\tallerLinq\obj\Debug\netcoreapp3.1\tallerLinq.AssemblyInfoInputs.cache
+C:\Users\jhond\source\repos\tallerLinq\tallerLinq\obj\Debug\netcoreapp3.1\tallerLinq.AssemblyInfo.cs
+C:\Users\jhond\source\repos\tallerLinq\tallerLinq\obj\Debug\netcoreapp3.1\tallerLinq.csproj.CoreCompileInputs.cache
+C:\Users\jhond\source\repos\tallerLinq\tallerLinq\obj\Debug\netcoreapp3.1\tallerLinq.dll
+C:\Users\jhond\source\repos\tallerLinq\tallerLinq\obj\Debug\netcoreapp3.1\tallerLinq.pdb
+C:\Users\jhond\source\repos\tallerLinq\tallerLinq\obj\Debug\netcoreapp3.1\tallerLinq.genruntimeconfig.cache
